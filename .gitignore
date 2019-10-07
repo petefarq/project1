@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Community Health Data API
+CHD_Config
+
+# Census API Key
+census_config.py
