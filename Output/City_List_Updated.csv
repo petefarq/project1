@@ -1,0 +1,72 @@
+,State,City,Metro,FIPS,  Pop 2010  ,County,Life Expectancy,FIPS_y,Life Expectancy_y
+0,NM,Albuquerque,Albuquerque,3502000.0," 545,852 ",Bernalillo County,79.7,3502000.0,78.53669064748205
+139,AK,Anchorage,Anchorage,203000.0," 291,826 ",Anchorage County,,203000.0,
+140,GA,Atlanta,Atlanta,1304000.0," 420,003 ",Fulton County,80.2,1304000.0,77.36481481481478
+302,TX,Austin,Austin,4805000.0," 790,390 ",Travis County,83.0,4805000.0,79.77087912087912
+484,CA,Bakersfield,Bakersfield,603526.0," 347,483 ",Kern County,75.1,603526.0,76.83134328358211
+618,MD,Baltimore,Baltimore,2404000.0," 620,961 ",Baltimore County,78.4,2404000.0,78.07722772277229
+820,LA,Baton Rouge,Baton Rouge,2205000.0," 229,493 ",East Baton Rouge,,2205000.0,
+821,AL,Birmingham,Birmingham,107000.0," 212,237 ",Jefferson County,68.5,107000.0,74.16369426751592
+978,MA,Boston,Boston,2507000.0," 617,594 ",Suffolk County,79.1,2507000.0,79.62934131736525
+1145,NY,Buffalo,Buffalo,3611000.0," 261,310 ",Erie County,76.0,3611000.0,77.66696832579181
+1366,NC,Charlotte,Charlotte,3712000.0," 731,424 ",Mecklenburg County,77.5,3712000.0,78.51632653061222
+1562,IL,Chicago,Chicago,1714000.0," 2,695,598 ",Cook County,68.8,1714000.0,77.82824999999995
+2762,OH,Cincinnati,Cincinnati,3915000.0," 296,943 ",Hamilton County,68.5,3915000.0,76.135960591133
+2965,OH,Cleveland,Cleveland,3916000.0," 396,815 ",Cuyahoga County,70.5,3916000.0,76.2506203473945
+3368,CO,Colorado Springs,Colorado Springs,816000.0," 416,427 ",El Paso County,78.4,816000.0,79.04196428571429
+3480,OH,Columbus,Columbus,3918000.0," 787,033 ",Fairfield County,76.6,3918000.0,78.36785714285715
+3508,TX,Corpus Christi,Corpus Christi,4817000.0," 305,215 ",Nueces County,69.6,4817000.0,77.3027397260274
+3581,TX,Dallas,Dallas,4819000.0," 1,197,816 ",Dallas County,83.3,4819000.0,77.7937768240343
+4047,CO,Denver,Denver,820000.0," 600,158 ",Denver County,78.5,820000.0,78.5230769230769
+4177,MI,Detroit,Detroit,2622000.0," 713,777 ",Wayne County,68.3,2622000.0,74.46294964028783
+4733,NC,Durham,Durham,3719000.0," 228,330 ",Durham County,73.7,3719000.0,78.5294117647059
+4784,IN,Fort Wayne,Fort Wayne,1825000.0," 253,691 ",Allen County,77.9,1825000.0,77.3279569892473
+4877,CA,Fresno,Fresno,627000.0," 494,665 ",Fresno County,71.8,627000.0,78.38848167539267
+5068,NC,Greensboro,Greensboro,3728000.0," 269,666 ",Guilford County,74.0,3728000.0,78.17706422018351
+5177,HI,Honolulu,Honolulu,15003.0," 953,207 ",Honolulu County,87.0,15003.0,81.29411764705884
+5381,TX,Houston,Houston,4835000.0," 2,099,451 ",Harris County,81.3,4835000.0,77.9546875
+6085,IN,Indianapolis,Indianapolis,1836003.0," 820,445 ",Marion County,78.6,1836003.0,75.01435406698566
+6294,FL,Jacksonville,Jacksonville,1235000.0," 821,784 ",Duval County,67.6,1235000.0,75.76826347305389
+6461,MO,Kansas City,Kansas City,2938000.0," 459,787 ",Jackson County,80.4,2938000.0,75.77329545454549
+6637,NV,Las Vegas,Las Vegas,3240000.0," 583,756 ",Clark County,79.4,3240000.0,77.28933649289093
+7059,KY,Lexington,Lexington,2146027.0," 295,803 ",Lexington County,,2146027.0,
+7060,NE,Lincoln,Lincoln,3128000.0," 258,379 ",Lancaster County,75.3,3128000.0,79.26615384615386
+7125,CA,Los Angeles,Los Angeles,644000.0," 3,792,621 ",Los Angeles County,79.2,644000.0,80.56164009111592
+9320,KY,Louisville,Louisville,2148006.0," 597,337 ",Jefferson County,66.6,2148006.0,76.06153846153842
+9502,TX,Lubbock,Lubbock,4845000.0," 229,573 ",Lubbock County,72.9,4845000.0,76.93275862068964
+9560,WI,Madison,Madison,5548000.0," 233,209 ",Dane County,,5548000.0,
+9561,TN,Memphis,Memphis,4748000.0," 646,889 ",Shelby County,79.1,4748000.0,74.79484536082475
+9755,FL,Miami,Miami,1245000.0," 399,457 ",Miami-Dade County,82.1,1245000.0,80.5551362683438
+10232,WI,Milwaukee,Milwaukee,5553000.0," 594,833 ",Milwaukee County,,5553000.0,
+10233,MN,Minneapolis,Minneapolis,2743000.0," 382,578 ",Hennepin County,79.7,2743000.0,80.32043795620436
+10507,AL,Montgomery,Montgomery,151000.0," 205,764 ",Montgomery County,71.4,151000.0,74.52037037037037
+10561,TN,Nashville,Nashville,4752006.0," 601,222 ",Davidson County,77.4,4752006.0,76.50785714285719
+10701,LA,New Orleans,New Orleans,2255000.0," 343,829 ",Orleans Parish,78.4,2255000.0,75.25850340136056
+10848,NY,New York,New York,3651000.0," 8,175,133 ",New York County,,3651000.0,80.20966266437982
+12598,OK,Oklahoma City,Oklahoma City,4055000.0," 579,999 ",Oklahoma County,,4055000.0,
+12599,NE,Omaha,Omaha,3137000.0," 408,958 ",Douglas County,71.9,3137000.0,77.83241379310346
+12744,FL,Orlando,Orlando,1253000.0," 238,300 ",Orange County,81.4,1253000.0,78.43597883597883
+12933,PA,Philadelphia,Philadelphia,4260000.0," 1,526,006 ",Philadelphia County,,4260000.0,
+12934,AZ,Phoenix,Phoenix,455000.0," 1,445,632 ",Maricopa County,90.8,455000.0,78.58918205804753
+13692,PA,Pittsburgh,Pittsburgh,4261000.0," 305,704 ",Allegheny County,,4261000.0,
+13693,OR,Portland,Portland,4159000.0," 583,776 ",Multnomah County,81.3,4159000.0,78.87278481012662
+13851,NC,Raleigh,Raleigh,3755000.0," 403,892 ",Wake County,81.8,3755000.0,80.25064102564097
+14007,NV,Reno,Reno,3260600.0," 225,221 ",Washoe County,75.1,3260600.0,78.19468085106384
+14101,NY,Rochester,Rochester,3663000.0," 210,565 ",Monroe County,75.3,3663000.0,79.30113636363639
+14277,CA,Sacramento,Sacramento,664000.0," 466,488 ",Sacramento County,82.5,664000.0,78.71533333333339
+14577,,Salt Lake City ,Salt Lake City ,,,Salt Lake County,,,
+14578,TX,San Antonio,San Antonio,4865000.0," 1,327,407 ",Bexar County,77.3,4865000.0,77.78031250000004
+14898,CA,San Diego,San Diego,666000.0," 1,307,402 ",San Diego County,88.0,666000.0,80.76333907056798
+15479,CA,San Francisco,San Francisco,667000.0," 805,235 ",San Francisco County,82.7,667000.0,81.78636363636367
+15655,WA,Seattle,Seattle,5363000.0," 608,660 ",King County,77.9,5363000.0,81.20185185185186
+16033,WA,Spokane,Spokane,5367000.0," 208,916 ",Spokane County,73.1,5367000.0,77.72330097087378
+16136,MO,St. Louis,St. Louis,2965000.0," 319,294 ",Saint Louis County,,2965000.0,
+16137,CA,Stockton,Stockton,675000.0," 291,707 ",San Joaquin County,68.6,675000.0,77.47028985507248
+16275,FL,Tampa,Tampa,1271000.0," 335,709 ",Hillsborough County,76.9,1271000.0,77.53308270676695
+16541,OH,Toledo,Toledo,3977000.0," 287,208 ",Lucas County,76.7,3977000.0,75.12357723577237
+16664,AZ,Tucson,Tucson,477000.0," 520,116 ",Pima County,79.9,477000.0,78.30590909090911
+16884,OK,Tulsa,Tulsa,4075000.0," 391,906 ",Tulsa County,71.9,4075000.0,76.0732142857142
+17052,VA,Virginia Beach,Virginia Beach,5182000.0," 437,994 ",Virginia Beach city,,5182000.0,
+17053,DC,Washington,Washington,1150000.0," 601,723 ",District of Columbia,,1150000.0,
+17054,KS,Wichita,Wichita,2079000.0," 382,368 ",Sedgwick County,72.8,2079000.0,76.97768595041326
+17175,NC,Winston-Salem,Winston-Salem,3775000.0," 229,617 ",Forsyth County,70.8,3775000.0,77.14545454545457
