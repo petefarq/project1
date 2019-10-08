@@ -1,3 +1,5 @@
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +104,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Community Health Data API
+CHD_Config
+
+# Census API Key
+census_config.py
+
+# Poor Health Viz
+Avg. Temp Change (F) 2014 vs. Poor Health.png
+
+# Resources
+Resources
