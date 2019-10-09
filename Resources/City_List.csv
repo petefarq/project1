@@ -1,0 +1,76 @@
+State,City,Metro,FIPS,  Pop 2010  ,County
+NM,Albuquerque,Albuquerque,3502000," 545,852 ",Bernalillo County
+AK,Anchorage,Anchorage,203000," 291,826 ",Anchorage County
+GA,Atlanta,Atlanta,1304000," 420,003 ",Fulton County
+TX,Austin,Austin,4805000," 790,390 ",Travis County
+CA,Bakersfield,Bakersfield,603526," 347,483 ",Kern County
+MD,Baltimore,Baltimore,2404000," 620,961 ",Baltimore County
+LA,Baton Rouge,Baton Rouge,2205000," 229,493 ",East Baton Rouge
+AL,Birmingham,Birmingham,107000," 212,237 ",Jefferson County
+MA,Boston,Boston,2507000," 617,594 ",Suffolk County
+NY,Buffalo,Buffalo,3611000," 261,310 ",Erie County
+NC,Charlotte,Charlotte,3712000," 731,424 ",Mecklenburg County
+IL,Chicago,Chicago,1714000," 2,695,598 ",Cook County
+OH,Cincinnati,Cincinnati,3915000," 296,943 ",Hamilton County
+OH,Cleveland,Cleveland,3916000," 396,815 ",Cuyahoga County
+CO,Colorado Springs,Colorado Springs,816000," 416,427 ",El Paso County
+OH,Columbus,Columbus,3918000," 787,033 ",Fairfield County
+TX,Corpus Christi,Corpus Christi,4817000," 305,215 ",Nueces County
+TX,Dallas,Dallas,4819000," 1,197,816 ",Dallas County
+CO,Denver,Denver,820000," 600,158 ",Denver County
+MI,Detroit,Detroit,2622000," 713,777 ",Wayne County
+NC,Durham,Durham,3719000," 228,330 ",Durham County
+IN,Fort Wayne,Fort Wayne,1825000," 253,691 ",Allen County
+CA,Fresno,Fresno,627000," 494,665 ",Fresno County
+NC,Greensboro,Greensboro,3728000," 269,666 ",Guilford County
+HI,Honolulu,Honolulu,15003," 953,207 ",Honolulu County
+TX,Houston,Houston,4835000," 2,099,451 ",Harris County
+IN,Indianapolis,Indianapolis,1836003," 820,445 ",Marion County
+FL,Jacksonville,Jacksonville,1235000," 821,784 ",Duval County
+MO,Kansas City,Kansas City,2938000," 459,787 ",Jackson County
+NV,Las Vegas,Las Vegas,3240000," 583,756 ",Clark County
+KY,Lexington,Lexington,2146027," 295,803 ",Lexington County
+NE,Lincoln,Lincoln,3128000," 258,379 ",Lancaster County
+CA,Los Angeles,Los Angeles,644000," 3,792,621 ",Los Angeles County
+KY,Louisville,Louisville,2148006," 597,337 ",Jefferson County
+TX,Lubbock,Lubbock,4845000," 229,573 ",Lubbock County
+WI,Madison,Madison,5548000," 233,209 ",Dane County
+TN,Memphis,Memphis,4748000," 646,889 ",Shelby County
+FL,Miami,Miami,1245000," 399,457 ",Miami-Dade County
+WI,Milwaukee,Milwaukee,5553000," 594,833 ",Milwaukee County
+MN,Minneapolis,Minneapolis,2743000," 382,578 ",Hennepin County
+AL,Montgomery,Montgomery,151000," 205,764 ",Montgomery County
+TN,Nashville,Nashville,4752006," 601,222 ",Davidson County
+LA,New Orleans,New Orleans,2255000," 343,829 ",Orleans Parish
+NY,New York,New York,3651000," 8,175,133 ",New York County
+NY,New York,New York,3651000," 8,175,133 ",Kings County
+NY,New York,New York,3651000," 8,175,133 ",Bronx County
+NY,New York,New York,3651000," 8,175,133 ",Richmond County
+NY,New York,New York,3651000," 8,175,133 ",Queens County
+OK,Oklahoma City,Oklahoma City,4055000," 579,999 ",Oklahoma County
+NE,Omaha,Omaha,3137000," 408,958 ",Douglas County
+FL,Orlando,Orlando,1253000," 238,300 ",Orange County
+PA,Philadelphia,Philadelphia,4260000," 1,526,006 ",Philadelphia County
+AZ,Phoenix,Phoenix,455000," 1,445,632 ",Maricopa County
+PA,Pittsburgh,Pittsburgh,4261000," 305,704 ",Allegheny County
+OR,Portland,Portland,4159000," 583,776 ",Multnomah County
+NC,Raleigh,Raleigh,3755000," 403,892 ",Wake County
+NV,Reno,Reno,3260600," 225,221 ",Washoe County
+NY,Rochester,Rochester,3663000," 210,565 ",Monroe County
+CA,Sacramento,Sacramento,664000," 466,488 ",Sacramento County
+,Salt Lake City ,Salt Lake City ,,,Salt Lake County
+TX,San Antonio,San Antonio,4865000," 1,327,407 ",Bexar County
+CA,San Diego,San Diego,666000," 1,307,402 ",San Diego County
+CA,San Francisco,San Francisco,667000," 805,235 ",San Francisco County
+WA,Seattle,Seattle,5363000," 608,660 ",King County
+WA,Spokane,Spokane,5367000," 208,916 ",Spokane County
+MO,St. Louis,St. Louis,2965000," 319,294 ",Saint Louis County
+CA,Stockton,Stockton,675000," 291,707 ",San Joaquin County
+FL,Tampa,Tampa,1271000," 335,709 ",Hillsborough County
+OH,Toledo,Toledo,3977000," 287,208 ",Lucas County
+AZ,Tucson,Tucson,477000," 520,116 ",Pima County
+OK,Tulsa,Tulsa,4075000," 391,906 ",Tulsa County
+VA,Virginia Beach,Virginia Beach,5182000," 437,994 ",Virginia Beach city
+DC,Washington,Washington,1150000," 601,723 ",District of Columbia
+KS,Wichita,Wichita,2079000," 382,368 ",Sedgwick County
+NC,Winston-Salem,Winston-Salem,3775000," 229,617 ",Forsyth County
