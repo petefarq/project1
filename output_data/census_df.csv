@@ -1,0 +1,71 @@
+,City,census_place,FIPS_place,Poverty_2017,Med_Income_2017
+0,Albuquerque,"Albuquerque city, New Mexico",02000,12.1,51099
+1,Anchorage,"Anchorage municipality, Alaska",03000,6.4,83648
+2,Atlanta,"Atlanta city, Georgia",04000,14.9,65345
+3,Austin,"Austin city, Texas",05000,9.4,71543
+4,Corpus Christi,"Corpus Christi city, Texas",17000,13.7,56602
+5,Dallas,"Dallas city, Texas",19000,13.8,52210
+6,Houston,"Houston city, Texas",35000,16.9,51203
+7,Lubbock,"Lubbock city, Texas",45000,11.2,48042
+8,San Antonio,"San Antonio city, Texas",65000,15.6,49024
+9,Bakersfield,"Bakersfield city, California",03526,15.5,60002
+10,Fresno,"Fresno city, California",27000,19.8,49813
+11,Los Angeles,"Los Angeles city, California",44000,12.2,62474
+12,Sacramento,"Sacramento city, California",64000,10.0,65046
+13,San Diego,"San Diego city, California",66000,8.4,79646
+14,San Francisco,"San Francisco city, California",67000,5.1,112376
+15,Stockton,"Stockton city, California",75000,16.6,54297
+16,Baltimore,"Baltimore city, Maryland",04000,13.9,51000
+17,Baton Rouge,"Baton Rouge city, Louisiana",05000,14.4,42470
+18,New Orleans,"New Orleans city, Louisiana",55000,16.5,38423
+19,Birmingham,"Birmingham city, Alabama",07000,19.9,36395
+20,Montgomery,"Montgomery city, Alabama",51000,17.7,49070
+21,Boston,"Boston city, Massachusetts",07000,12.1,71834
+22,Buffalo,"Buffalo city, New York",11000,23.7,37359
+23,New York,"New York city, New York",51000,14.1,63799
+24,Rochester,"Rochester city, New York",63000,27.4,35403
+25,Charlotte,"Charlotte city, North Carolina",12000,9.1,60764
+26,Durham,"Durham city, North Carolina",19000,10.0,54840
+27,Greensboro,"Greensboro city, North Carolina",28000,14.1,45787
+28,Raleigh,"Raleigh city, North Carolina",55000,7.4,65695
+29,Winston-Salem,"Winston-Salem city, North Carolina",75000,15.3,44597
+30,Chicago,"Chicago city, Illinois",14000,13.8,57238
+31,Cincinnati,"Cincinnati city, Ohio",15000,18.9,43585
+32,Cleveland,"Cleveland city, Ohio",16000,27.5,29953
+33,Columbus,"Columbus city, Ohio",18000,13.7,52971
+34,Toledo,"Toledo city, Ohio",77000,18.9,35866
+35,Colorado Springs,"Colorado Springs city, Colorado",16000,7.6,65331
+36,Denver,"Denver city, Colorado",20000,8.1,68377
+37,Detroit,"Detroit city, Michigan",22000,28.3,31283
+38,Fort Wayne,"Fort Wayne city, Indiana",25000,12.4,48658
+39,Indianapolis,"Indianapolis city (balance), Indiana",36003,12.0,47678
+40,Honolulu,"Urban Honolulu CDP, Hawaii",71550,6.4,71247
+41,Jacksonville,"Jacksonville city, Florida",35000,11.8,54269
+42,Miami,"Miami city, Florida",45000,18.4,41818
+43,Orlando,"Orlando city, Florida",53000,13.0,51820
+44,Tampa,"Tampa city, Florida",71000,13.4,54599
+45,Kansas City,"Kansas City city, Missouri",38000,10.5,54372
+46,St. Louis,"St. Louis city, Missouri",65000,17.0,43889
+47,Las Vegas,"Las Vegas city, Nevada",40000,11.5,53575
+48,Reno,"Reno city, Nevada",60600,7.5,56087
+49,Lexington,"Lexington-Fayette urban county, Kentucky",46027,9.1,54896
+50,Louisville,"Louisville/Jefferson County metro government (balance), Kentucky",48006,13.2,52303
+51,Lincoln,"Lincoln city, Nebraska",28000,7.5,55388
+52,Omaha,"Omaha city, Nebraska",37000,8.4,59266
+53,Madison,"Madison city, Wisconsin",48000,5.2,64101
+54,Milwaukee,"Milwaukee city, Wisconsin",53000,19.7,42087
+55,Memphis,"Memphis city, Tennessee",48000,21.6,37199
+56,Nashville,"Nashville-Davidson metropolitan government (balance), Tennessee",52006,13.1,60324
+57,Minneapolis,"Minneapolis city, Minnesota",43000,10.3,63590
+58,Oklahoma City,"Oklahoma City city, Oklahoma",55000,13.1,53973
+59,Tulsa,"Tulsa city, Oklahoma",75000,14.1,47583
+60,Philadelphia,"Philadelphia city, Pennsylvania",60000,19.2,46116
+61,Pittsburgh,"Pittsburgh city, Pennsylvania",61000,11.7,47417
+62,Phoenix,"Phoenix city, Arizona",55000,12.2,57957
+63,Tucson,"Tucson city, Arizona",77000,15.3,43676
+64,Portland,"Portland city, Oregon",59000,5.9,73097
+65,Seattle,"Seattle city, Washington",63000,5.3,93481
+66,Spokane,"Spokane city, Washington",67000,8.5,54085
+67,Virginia Beach,"Virginia Beach city, Virginia",82000,4.5,77059
+68,Washington,"Washington city, District of Columbia",50000,11.3,85203
+69,Wichita,"Wichita city, Kansas",79000,10.7,51051
