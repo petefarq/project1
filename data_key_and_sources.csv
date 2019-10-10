@@ -1,0 +1,9 @@
+﻿,Census API - US Census API data from American Community Survey 2011-2018 1-Year Data -- https://www.census.gov/data/developers/data-sets/acs-1year.html,,,,,,,,,,,,,,,,,,,,,
+,CDC 500 =  CDC 500 Cities health data 2017 -- downloaded and merged via CSV -- https://www.cdc.gov/500cities/index.htm,,,,,,,,,,,,,,,,,,,,,
+,"UCD = CSV data of PM2.5 particulate pollution, CO2, and temperature data from the European Commision's global Urban Centres Database - part of Global Human Settlement data project -- https://ghsl.jrc.ec.europa.eu/ucdb2018Overview.php",,,,,,,,,,,,,,,,,,,,,
+,"CDC CSV = seperate life expectency download, 2010-2015 data -- https://healthdata.gov/dataset/us-life-expectancy-birth-state-and-census-tract-2010-2015",,,,,,,,,,,,,,,,,,,,,
+,"Milken = source for ""Economic Rank"" -- 2018 Milkin Institute Best Performing Cities Index --- http://www.best-cities.org/2018/best-performing-cities-report-2018.pdf",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Data:, Pop 2010 ,Cancer %,Asthma %,Heart Disease %,Pulminary Disease %,Mental Illness %,Poor Health %,Life Expectency,Avg Temp 1990,Avg Temp 2014,CO2 1975,CO2 1990,CO2 2000,CO2 2012,PM2.5 2000,PM2.5 2005,PM 2.5 2010,PM2.5 2014,Heat Wave Index,Economic Rank,Med_Income_2017,Poverty_2017
+Source:,CDC 500,CDC 500,CDC 500,CDC 500,CDC 500,CDC 500,CDC 500,CDC CSV,UCD,UCD,UCD,UCD,UCD,UCD,UCD,UCD,UCD,UCD,UCD,Milken,Census API,Census  API 

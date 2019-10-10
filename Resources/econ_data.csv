@@ -1,71 +1,71 @@
 ﻿State,City,Metro,FIPS,  Pop 2010  ,Poverty Rate 2009-2013,Economic Rank
-TX,Austin,Austin,4805000,790390,0.1910,3
-CA,San Francisco,San Francisco,667000,805235,0.1350,4
-TX,Dallas,Dallas,4819000,1197816,0.2380,5
-NC,Raleigh,Raleigh,3755000,403892,0.1620,6
-FL,Orlando,Orlando,1253000,238300,0.1920,7
-WA,Seattle,Seattle,5363000,608660,0.1360,8
-NV,Reno,Reno,3260600,225221,0.1860,11
-NC,Charlotte,Charlotte,3712000,731424,0.1710,13
-GA,Atlanta,Atlanta,1304000,420003,0.2500,17
-AZ,Phoenix,Phoenix,455000,1445632,0.2280,20
-NV,Las Vegas,Las Vegas,3240000,583756,0.1710,23
-CO,Denver,Denver,820000,600158,0.1910,24
-TN,Nashville,Nashville,4752006,601222,0.1890,25
-FL,Tampa,Tampa,1271000,335709,0.0000,30
-TX,San Antonio,San Antonio,4865000,1327407,0.1990,32
-CA,Stockton,Stockton,675000,291707,0.2430,34
-CA,Fresno,Fresno,627000,494665,0.2890,37
-CA,San Diego,San Diego,666000,1307402,0.0000,45
-MA,Boston,Boston,2507000,617594,0.2140,48
-CO,Colorado Springs,Colorado Springs,816000,416427,0.1370,58
-IN,Indianapolis,Indianapolis,1836003,820445,0.2090,63
-CA,Sacramento,Sacramento,664000,466488,0.2190,64
-WI,Madison,Madison,5548000,233209,0.1940,72
-FL,Miami,Miami,1245000,399457,0.2990,74
-NC,Durham,Durham,3719000,228330,0.2000,77
-MN,Minneapolis,Minneapolis,2743000,382578,0.2250,79
-CA,Los Angeles,Los Angeles,644000,3792621,0.2200,81
-TX,Lubbock,Lubbock,4845000,229573,0.2180,86
-KY,Louisville,Louisville,2148006,597337,0.1840,91
-NY,New York,New York,3651000,8175133,0.2030,94
-MO,Kansas City,Kansas City,2938000,459787,0.1910,97
-OH,Columbus,Columbus,3918000,787033,0.2240,99
-DC,Washington,Washington,1150000,601723,0.1860,100
-AZ,Tucson,Tucson,477000,520116,0.2520,102
-WA,Spokane,Spokane,5367000,208916,0.0000,103
-OR,Portland,Portland,4159000,583776,0.1780,105
-PA,Philadelphia,Philadelphia,4260000,1526006,0.2650,107
-MD,Baltimore,Baltimore,2404000,620961,0.2380,109
-KY,Lexington,Lexington,2146027,295803,0.1890,112
-AL,Montgomery,Montgomery,151000,205764,0.0000,116
-IN,Fort Wayne,Fort Wayne,1825000,253691,0.1870,118
-TX,Houston,Houston,4835000,2099451,0.2290,119
-MI,Detroit,Detroit,2622000,713777,0.3930,121
-FL,Jacksonville,Jacksonville,1235000,821784,0.1790,122
-NM,Albuquerque,Albuquerque,3502000,545852,0.1790,125
-NE,Lincoln,Lincoln,3128000,258379,0.1650,126
-MO,St. Louis,St. Louis,2965000,319294,0.2740,130
-OH,Cincinnati,Cincinnati,3915000,296943,0.3040,131
-IL,Chicago,Chicago,1714000,2695598,0.2260,132
-NE,Omaha,Omaha,3137000,408958,0.1660,134
-OK,Tulsa,Tulsa,4075000,391906,0.2010,138
-HI,Honolulu,Honolulu,15003,953207,0.1210,141
-NY,Buffalo,Buffalo,3611000,261310,0.3070,143
-TN,Memphis,Memphis,4748000,646889,0.2690,145
-LA,Baton Rouge,Baton Rouge,2205000,229493,0.2540,145
-OK,Oklahoma City,Oklahoma City,4055000,579999,0.1820,147
-PA,Pittsburgh,Pittsburgh,4261000,305704,0.2260,150
-NC,Greensboro,Greensboro,3728000,269666,0.2030,156
-WI,Milwaukee,Milwaukee,5553000,594833,0.2910,157
-NY,Rochester,Rochester,3663000,210565,0.0000,158
-NC,Winston-Salem,Winston-Salem,3775000,229617,0.2320,160
-CA,Bakersfield,Bakersfield,603526,347483,0.2040,162
-AL,Birmingham,Birmingham,107000,212237,0.0000,165
-OH,Cleveland,Cleveland,3916000,396815,0.3540,167
-VA,Virginia Beach,Virginia Beach,5182000,437994,0.0790,173
-OH,Toledo,Toledo,3977000,287208,0.2720,179
-KS,Wichita,Wichita,2079000,382368,0.1760,181
-TX,Corpus Christi,Corpus Christi,4817000,305215,0.1820,188
-LA,New Orleans,New Orleans,2255000,343829,0.2730,189
-AK,Anchorage,Anchorage,203000,291826,0.0790,197
+TX,Austin,Austin,4805000,790390,0.191,3
+CA,San Francisco,San Francisco,667000,805235,0.135,4
+TX,Dallas,Dallas,4819000,1197816,0.238,5
+NC,Raleigh,Raleigh,3755000,403892,0.162,6
+FL,Orlando,Orlando,1253000,238300,0.192,7
+WA,Seattle,Seattle,5363000,608660,0.136,8
+NV,Reno,Reno,3260600,225221,0.186,11
+NC,Charlotte,Charlotte,3712000,731424,0.171,13
+GA,Atlanta,Atlanta,1304000,420003,0.25,17
+AZ,Phoenix,Phoenix,455000,1445632,0.228,20
+NV,Las Vegas,Las Vegas,3240000,583756,0.171,23
+CO,Denver,Denver,820000,600158,0.191,24
+TN,Nashville,Nashville,4752006,601222,0.189,25
+FL,Tampa,Tampa,1271000,335709,0,30
+TX,San Antonio,San Antonio,4865000,1327407,0.199,32
+CA,Stockton,Stockton,675000,291707,0.243,34
+CA,Fresno,Fresno,627000,494665,0.289,37
+CA,San Diego,San Diego,666000,1307402,0,45
+MA,Boston,Boston,2507000,617594,0.214,48
+CO,Colorado Springs,Colorado Springs,816000,416427,0.137,58
+IN,Indianapolis,Indianapolis,1836003,820445,0.209,63
+CA,Sacramento,Sacramento,664000,466488,0.219,64
+WI,Madison,Madison,5548000,233209,0.194,72
+FL,Miami,Miami,1245000,399457,0.299,74
+NC,Durham,Durham,3719000,228330,0.2,77
+MN,Minneapolis,Minneapolis,2743000,382578,0.225,79
+CA,Los Angeles,Los Angeles,644000,3792621,0.22,81
+TX,Lubbock,Lubbock,4845000,229573,0.218,86
+KY,Louisville,Louisville,2148006,597337,0.184,91
+NY,New York,New York,3651000,8175133,0.203,94
+MO,Kansas City,Kansas City,2938000,459787,0.191,97
+OH,Columbus,Columbus,3918000,787033,0.224,99
+DC,Washington,Washington,1150000,601723,0.186,100
+AZ,Tucson,Tucson,477000,520116,0.252,102
+WA,Spokane,Spokane,5367000,208916,0,103
+OR,Portland,Portland,4159000,583776,0.178,105
+PA,Philadelphia,Philadelphia,4260000,1526006,0.265,107
+MD,Baltimore,Baltimore,2404000,620961,0.238,109
+KY,Lexington,Lexington,2146027,295803,0.189,112
+AL,Montgomery,Montgomery,151000,205764,0,116
+IN,Fort Wayne,Fort Wayne,1825000,253691,0.187,118
+TX,Houston,Houston,4835000,2099451,0.229,119
+MI,Detroit,Detroit,2622000,713777,0.393,121
+FL,Jacksonville,Jacksonville,1235000,821784,0.179,122
+NM,Albuquerque,Albuquerque,3502000,545852,0.179,125
+NE,Lincoln,Lincoln,3128000,258379,0.165,126
+MO,St. Louis,St. Louis,2965000,319294,0.274,130
+OH,Cincinnati,Cincinnati,3915000,296943,0.304,131
+IL,Chicago,Chicago,1714000,2695598,0.226,132
+NE,Omaha,Omaha,3137000,408958,0.166,134
+OK,Tulsa,Tulsa,4075000,391906,0.201,138
+HI,Honolulu,Honolulu,71550,953207,0.121,141
+NY,Buffalo,Buffalo,3611000,261310,0.307,143
+TN,Memphis,Memphis,4748000,646889,0.269,145
+LA,Baton Rouge,Baton Rouge,2205000,229493,0.254,145
+OK,Oklahoma City,Oklahoma City,4055000,579999,0.182,147
+PA,Pittsburgh,Pittsburgh,4261000,305704,0.226,150
+NC,Greensboro,Greensboro,3728000,269666,0.203,156
+WI,Milwaukee,Milwaukee,5553000,594833,0.291,157
+NY,Rochester,Rochester,3663000,210565,0,158
+NC,Winston-Salem,Winston-Salem,3775000,229617,0.232,160
+CA,Bakersfield,Bakersfield,603526,347483,0.204,162
+AL,Birmingham,Birmingham,107000,212237,0,165
+OH,Cleveland,Cleveland,3916000,396815,0.354,167
+VA,Virginia Beach,Virginia Beach,5182000,437994,0.079,173
+OH,Toledo,Toledo,3977000,287208,0.272,179
+KS,Wichita,Wichita,2079000,382368,0.176,181
+TX,Corpus Christi,Corpus Christi,4817000,305215,0.182,188
+LA,New Orleans,New Orleans,2255000,343829,0.273,189
+AK,Anchorage,Anchorage,203000,291826,0.079,197
